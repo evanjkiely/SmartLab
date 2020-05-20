@@ -1,5 +1,5 @@
-# Written by Evan J. Kiely for the Gilbert-Ross Lab, Emory University, January 2020
-# For more information, please see here: https://github.com/evanjkiely/SmartLab
+# Written for the Gilbert-Ross Lab, Emory University, January 2020
+# For more information, please see here: https://github.com/evankiely/SmartLab
 # Licensed under the GNU General Public License v3.0
 
 # Importing dependencies
